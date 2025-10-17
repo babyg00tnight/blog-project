@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Quản Trị</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">v lepenseur</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Trang chủ</a></li>
+                    <li class="nav-item"><a class="nav-link" href="video.html">Video</a></li>
+                    <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="source.html">Nguồn</a></li>
+                    <li class="nav-item"><a class="nav-link" href="login.html">Đăng nhập</a></li>
+                    <li class="nav-item"><a class="nav-link" href="admin.html">Admin</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Nội dung chính -->
+    <main class="container" style="margin-top: 80px;">
+        <h1 class="mb-4">Trang Quản Trị</h1>
+
+        <!-- Tabs điều hướng -->
+        <ul class="nav nav-tabs" id="adminTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="post-tab" data-bs-toggle="tab" data-bs-target="#posts" type="button"
+                    role="tab">Quản lý Bài viết</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="video-tab" data-bs-toggle="tab" data-bs-target="#videos" type="button"
+                    role="tab">Quản lý Video</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="comment-tab" data-bs-toggle="tab" data-bs-target="#comments" type="button"
+                    role="tab">Quản lý Bình luận</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="user-tab" data-bs-toggle="tab" data-bs-target="#users" type="button"
+                    role="tab">Quản lý Người dùng</button>
+            </li>
+        </ul>
+
+        <!-- Nội dung các tab -->
+        <div class="tab-content mt-4" id="adminTabContent">
+            <!-- Bài viết -->
+            <div class="tab-pane fade show active" id="posts" role="tabpanel">
+                <h3>Quản lý Bài viết</h3>
+                <button class="btn btn-primary mb-3">Thêm Bài viết</button>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tiêu đề</th>
+                            <th>Ngày đăng</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Bài viết demo</td>
+                            <td>2025-09-12</td>
+                            <td><button class="btn btn-sm btn-warning">Sửa</button> <button
+                                    class="btn btn-sm btn-danger">Xóa</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Video -->
+            <div class="tab-pane fade" id="videos" role="tabpanel">
+                <h3>Quản lý Video</h3>
+                <button class="btn btn-primary mb-3">Thêm Video</button>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tiêu đề</th>
+                            <th>Link</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Video demo</td>
+                            <td>https://youtube.com/...</td>
+                            <td><button class="btn btn-sm btn-warning">Sửa</button> <button
+                                    class="btn btn-sm btn-danger">Xóa</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Bình luận -->
+            <div class="tab-pane fade" id="comments" role="tabpanel">
+                <h3>Quản lý Bình luận</h3>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>User</th>
+                            <th>Nội dung</th>
+                            <th>Ngày</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>user1</td>
+                            <td>Bình luận demo</td>
+                            <td>2025-09-12</td>
+                            <td><button class="btn btn-sm btn-danger">Xóa</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Người dùng -->
+            <div class="tab-pane fade" id="users" role="tabpanel">
+                <h3>Quản lý Người dùng</h3>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên</th>
+                            <th>Email</th>
+                            <th>Trạng thái</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Nguyễn Văn A</td>
+                            <td>a@example.com</td>
+                            <td>Hoạt động</td>
+                            <td><button class="btn btn-sm btn-secondary">Khóa</button> <button
+                                    class="btn btn-sm btn-success">Mở</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light text-center p-3 mt-5">
+        <p>&copy; v lepenseur</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

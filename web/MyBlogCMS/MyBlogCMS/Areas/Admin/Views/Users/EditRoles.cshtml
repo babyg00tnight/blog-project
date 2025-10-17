@@ -1,0 +1,38 @@
+﻿@model MyBlogCMS.ViewModels.EditRoleViewModel
+@{
+    ViewData["Title"] = "Chỉnh sửa vai trò người dùng";
+}
+
+<div class="container mt-4">
+    <div class="card bg-dark text-light">
+        <div class="card-header">
+            <h4><i class="bi bi-person-gear"></i> Cập nhật vai trò cho người dùng</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="EditRole" method="post">
+                @Html.AntiForgeryToken()
+                <input type="hidden" asp-for="UserId" />
+
+                <div class="mb-3">
+                    <label class="form-label">Tên người dùng</label>
+                    <input asp-for="UserName" class="form-control bg-secondary text-light" readonly />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Chọn vai trò</label>
+                    <select asp-for="SelectedRoles" asp-items="@(new MultiSelectList(Model.AllRoles))"
+                            class="form-select bg-secondary text-light" multiple size="5">
+                    </select>
+                    <small class="text-muted">Giữ Ctrl (Windows) hoặc Cmd (Mac) để chọn nhiều vai trò</small>
+                </div>
+
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-save"></i> Lưu thay đổi
+                </button>
+                <a asp-action="Index" class="btn btn-outline-light ms-2">
+                    <i class="bi bi-arrow-left"></i> Quay lại danh sách
+                </a>
+            </form>
+        </div>
+    </div>
+</div>

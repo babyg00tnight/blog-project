@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MyBlogCMS.Models.Post>
+@{
+    var category = ViewBag.Category as MyBlogCMS.Models.Category;
+    ViewData["Title"] = "Chuyên mục: " + (category?.Name ?? "");
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (!Model.Any())
+{
+    <p>Chưa có bài viết trong chuyên mục này.</p>
+}
+else
+{
+    <div class="list-group">
+        @foreach (var p in Model)
+        {
+            <a class="list-group-item list-group-item-action" href="@Url.Action("Details", "Posts", new { id = p.PostId })">
+                <h5>@p.Title</h5>
+                <small class="text-muted">@p.CreatedAt.ToString("dd/MM/yyyy")</small>
+                <p class="mb-0">@p.Description</p>
+            </a>
+        }
+    </div>
+}

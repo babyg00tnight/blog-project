@@ -1,0 +1,27 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Trang quản trị";
+}
+<div class="container text-white">
+    <h2 class="mb-4">👋 Chào mừng đến trang quản trị MyBlogCMS</h2>
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card bg-dark border-light shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">📰 Bài viết</h5>
+                    <p>@ViewBag.PostCount bài viết</p>
+                    <a asp-area="Admin" asp-controller="Posts" asp-action="Index" class="btn btn-primary btn-sm">Xem</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-dark border-light shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">📂 Danh mục</h5>
+                    <p>@ViewBag.CategoryCount danh mục</p>
+                    <a asp-area="Admin" asp-controller="Categories" asp-action="Index" class="btn btn-primary btn-sm">Xem</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

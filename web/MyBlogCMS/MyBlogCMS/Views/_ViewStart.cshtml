@@ -1,0 +1,11 @@
+﻿@{
+    // Nếu là trang trong khu vực Admin
+    if (ViewContext.RouteData.Values["area"]?.ToString() == "Admin")
+    {
+        Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_PublicLayout.cshtml";
+    }
+}

@@ -1,0 +1,28 @@
+﻿@model MyBlogCMS.Models.Category
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Chỉnh sửa danh mục";
+}
+
+<div class="container text-white">
+    <h3 class="mb-4">✏️ Chỉnh sửa danh mục</h3>
+
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="CategoryId" />
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control bg-dark text-white border-secondary" />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" rows="3" class="form-control bg-dark text-white border-secondary"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-warning">
+            <i class="bi bi-check-lg"></i> Cập nhật
+        </button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

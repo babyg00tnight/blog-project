@@ -1,0 +1,17 @@
+﻿@model MyBlogCMS.Models.ApplicationUser
+@{
+    ViewData["Title"] = "Xóa người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Xác nhận xóa người dùng</h2>
+
+<div class="alert alert-danger">
+    Bạn có chắc chắn muốn xóa tài khoản <strong>@Model.Email</strong> không?
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a href="/Admin/Users" class="btn btn-secondary">Hủy</a>
+</form>

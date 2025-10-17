@@ -1,0 +1,76 @@
+﻿@model MyBlogCMS.Models.Post
+
+@{
+    ViewData["Title"] = "Đăng bài viết mới";
+    var categories = ViewData["Categories"] as List<MyBlogCMS.Models.Category>;
+}
+
+<div class="container my-5">
+    <h2 class="fw-bold text-primary mb-4 text-center">
+        <i class="bi bi-plus-circle"></i> Đăng bài viết mới
+    </h2>
+
+    <form asp-action="Create" enctype="multipart/form-data" method="post" class="card shadow-sm p-4">
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label fw-bold">Tiêu đề</label>
+            <input asp-for="Title" class="form-control" placeholder="Nhập tiêu đề bài viết" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label fw-bold">Mô tả ngắn</label>
+            <textarea asp-for="Description" class="form-control" rows="3"
+                      placeholder="Tóm tắt nội dung bài viết..."></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Content" class="form-label fw-bold">Nội dung</label>
+            <textarea asp-for="Content" class="form-control" rows="8"
+                      placeholder="Nhập nội dung chi tiết..."></textarea>
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label fw-bold">Danh mục</label>
+            <select asp-for="CategoryId" class="form-select" asp-items="@(new SelectList(categories, "CategoryId", "Name"))">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Ảnh minh họa</label>
+            <input asp-for="ThumbnailFile" type="file" class="form-control" accept="image/*" onchange="previewImage(event)" />
+            <span asp-validation-for="ThumbnailFile" class="text-danger"></span>
+        </div>
+
+        <div class="text-center mb-3">
+            <img id="preview" src="/images/no-image.jpg" alt="Preview" class="rounded shadow-sm"
+                 style="max-height: 250px; display: none;" />
+        </div>
+
+        <div class="text-end">
+            <a asp-action="Index" class="btn btn-secondary me-2">
+                <i class="bi bi-arrow-left"></i> Quay lại
+            </a>
+            <button type="submit" class="btn btn-success">
+                <i class="bi bi-check-circle"></i> Đăng bài
+            </button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function previewImage(event) {
+            const preview = document.getElementById('preview');
+            const file = event.target.files[0];
+            if (file) {
+                preview.src = URL.createObjectURL(file);
+                preview.style.display = 'block';
+            } else {
+                preview.style.display = 'none';
+            }
+        }
+    </script>
+}

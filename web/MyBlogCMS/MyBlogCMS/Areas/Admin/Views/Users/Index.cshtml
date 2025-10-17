@@ -1,0 +1,47 @@
+﻿@model IEnumerable<MyBlogCMS.Areas.Admin.Controllers.UsersController.UserWithRolesViewModel>
+@{
+    ViewData["Title"] = "Quản lý người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 class="mb-4 text-info"><i class="bi bi-people"></i> Quản lý người dùng</h2>
+
+<table class="table table-dark table-hover align-middle text-light">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Email</th>
+            <th>Vai trò</th>
+            <th class="text-center">Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            int i = 1;
+            foreach (var user in Model)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@user.Email</td>
+                    <td>@(string.IsNullOrEmpty(user.Roles) ? "Chưa có vai trò" : user.Roles)</td>
+                    <td class="text-center">
+                        <a asp-area="Admin" asp-controller="Users" asp-action="EditRole" asp-route-id="@user.UserId" class="btn btn-sm btn-warning">
+                            <i class="bi bi-pencil-square"></i> Chỉnh sửa vai trò
+                        </a>
+                        <a asp-area="Admin" asp-controller="Users" asp-action="Delete" asp-route-id="@user.UserId" class="btn btn-sm btn-danger ms-2">
+                            <i class="bi bi-trash"></i> Xóa
+                        </a>
+                    </td>
+                </tr>
+                i++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center text-muted">Không có người dùng nào.</td>
+            </tr>
+        }
+    </tbody>
+</table>

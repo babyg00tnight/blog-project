@@ -1,0 +1,123 @@
+﻿@model MyBlogCMS.Models.Post
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Chi tiết bài viết";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0">
+        <!-- Ảnh đại diện -->
+        @if (!string.IsNullOrEmpty(Model.Thumbnail))
+        {
+            <img src="~/uploads/posts/@Model.Thumbnail"
+                 alt="@Model.Title"
+                 class="card-img-top"
+                 style="max-height: 400px; object-fit: cover;" />
+        }
+        else
+        {
+            <img src="~/images/no-image.jpg"
+                 alt="No image"
+                 class="card-img-top"
+                 style="max-height: 400px; object-fit: cover;" />
+        }
+
+        <div class="card-body p-4">
+            <!-- Tiêu đề -->
+            <h2 class="fw-bold text-primary mb-3">@Model.Title</h2>
+
+            <!-- Danh mục + Ngày đăng -->
+            <div class="mb-3 text-muted small">
+                📂 <strong>@Model.Category?.Name ?? "Không có danh mục"</strong> |
+                🗓️ @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm")
+            </div>
+
+            <!-- Nội dung -->
+            <div class="post-content fs-5" style="line-height: 1.7;">
+                @Html.Raw(Model.Content)
+            </div>
+        </div>
+
+        <div class="card-footer bg-white border-0 text-end">
+            <a asp-action="Index" class="btn btn-outline-secondary">← Quay lại danh sách</a>
+        </div>
+    </div>
+
+    <!-- =============================== -->
+    <!-- 💬 PHẦN BÌNH LUẬN -->
+    <!-- =============================== -->
+    <div class="mt-5">
+        <h4 class="fw-bold text-primary mb-3">💬 Bình luận</h4>
+
+        @if (Model.Comments != null && Model.Comments.Any())
+        {
+            <div class="list-group mb-4">
+                @foreach (var comment in Model.Comments.OrderByDescending(c => c.CreatedAt))
+                {
+                    <div class="list-group-item border-0 border-bottom">
+                        <strong>@(comment.Author?.UserName ?? "Ẩn danh")</strong>
+                        <p class="text-muted small mb-1">@comment.CreatedAt.ToString("dd/MM/yyyy HH:mm")</p>
+                        <p class="mb-0">@comment.Content</p>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p class="text-muted fst-italic">Chưa có bình luận nào. Hãy là người đầu tiên bình luận!</p>
+        }
+
+        <!-- =============================== -->
+        <!-- 📝 FORM THÊM BÌNH LUẬN -->
+        <!-- =============================== -->
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title mb-3 text-primary">Viết bình luận</h5>
+                    <form asp-action="AddComment" method="post">
+                        <input type="hidden" name="PostId" value="@Model.PostId" />
+
+                        <div class="mb-3">
+                            <label class="form-label">Nội dung</label>
+                            <textarea name="Content" class="form-control" rows="3" required></textarea>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Gửi bình luận</button>
+                    </form>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info mt-4">
+                <i class="bi bi-lock"></i>
+                Bạn cần <a asp-controller="Account" asp-action="Login" class="fw-bold text-decoration-none">đăng nhập</a> để bình luận.
+            </div>
+        }
+    </div>
+</div>
+
+<!-- CSS nhẹ -->
+<style>
+    .post-content img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        margin: 15px 0;
+    }
+
+    .post-content p {
+        margin-bottom: 1rem;
+    }
+
+    .list-group-item {
+        background: #fff;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        box-shadow: 0 0 4px rgba(0,0,0,0.05);
+        padding: 15px;
+    }
+</style>

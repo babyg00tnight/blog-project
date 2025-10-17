@@ -1,0 +1,1510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\users\\editroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\users\\editroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\data\\myblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\data\\myblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\wwwroot\\css\\admin-dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\wwwroot\\css\\admin-dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\admin\\controllers\\userwithrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\admin\\controllers\\userwithrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\shared\\_publiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\migrations\\20251008062902_addauthoridtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\migrations\\20251008062902_addauthoridtopost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\dotnet||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\data\\myblogcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\data\\myblogcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\obj\\Debug\\net8.0\\MyBlogCMS.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBlogCMS\\obj\\Debug\\net8.0\\MyBlogCMS.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\postmeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\postmeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\meta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\videocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\videocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\videotag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\videotag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\videocomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\videocomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\videometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\videometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\postcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\models\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\migrations\\20250930162529_checkdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\migrations\\20250930162529_checkdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\migrations\\20251010034503_addcommenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\migrations\\20251010034503_addcommenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\migrations\\20251017115259_updateposttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\migrations\\20251017115259_updateposttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|c:\\users\\long\\onedrive\\m\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\myblogcms\\myblogcms\\migrations\\20251017114845_addslugandispublishedtoposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864F2C2F-EC78-4BF9-9EBE-C46879E4F6A9}|MyBlogCMS\\MyBlogCMS.csproj|solutionrelative:myblogcms\\migrations\\20251017114845_addslugandispublishedtoposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:12:57.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:34:20.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T04:54:53.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T12:44:01.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T12:43:56.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T12:44:06.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T12:44:04.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:34:18.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T04:18:14.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:18:56.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:12:29.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:13:21.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:13:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T04:55:01.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:44:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Users\\EditRoles.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Users\\EditRoles.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Users\\EditRoles.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Users\\EditRoles.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:58:40.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyBlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Data\\MyBlogContext.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Data\\MyBlogContext.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Data\\MyBlogContext.cs",
+              "RelativeToolTip": "MyBlogCMS\\Data\\MyBlogContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:34:31.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Program.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Program.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Program.cs",
+              "RelativeToolTip": "MyBlogCMS\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:15:20.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:12:39.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T05:45:18.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:42:00.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T12:16:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T06:42:44.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:12:49.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:13:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:13:29.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAywGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:44:26.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:12:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T05:13:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20251017115259_UpdatePostTable.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251017115259_UpdatePostTable.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Migrations\\20251017115259_UpdatePostTable.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251017115259_UpdatePostTable.cs",
+              "RelativeToolTip": "MyBlogCMS\\Migrations\\20251017115259_UpdatePostTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:52:59.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Posts\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vyoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T03:58:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv6sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:44:35.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20251017114845_AddSlugAndIsPublishedToPosts.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251017114845_AddSlugAndIsPublishedToPosts.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Migrations\\20251017114845_AddSlugAndIsPublishedToPosts.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251017114845_AddSlugAndIsPublishedToPosts.cs",
+              "RelativeToolTip": "MyBlogCMS\\Migrations\\20251017114845_AddSlugAndIsPublishedToPosts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:48:45.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Post.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Post.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAywEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:48:59.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Posts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Delete.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Posts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T04:00:52.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAhwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T04:01:23.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "admin-dark.css",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\css\\admin-dark.css",
+              "RelativeDocumentMoniker": "MyBlogCMS\\wwwroot\\css\\admin-dark.css",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\css\\admin-dark.css",
+              "RelativeToolTip": "MyBlogCMS\\wwwroot\\css\\admin-dark.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-17T11:39:40.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserWithRolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\UserWithRolesViewModel.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Controllers\\UserWithRolesViewModel.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Controllers\\UserWithRolesViewModel.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Controllers\\UserWithRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:25:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T07:41:12.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T06:46:13.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:55:33.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T06:25:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:05:18.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Comment.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:10:49.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Posts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Posts\\Details.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Posts\\Details.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T04:01:31.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:02:13.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:00:42.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:01:58.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:53:59.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_PublicLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_PublicLayout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Shared\\_PublicLayout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_PublicLayout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Shared\\_PublicLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:34:30.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:29:12.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T03:28:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T04:48:18.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "MyBlogCMS\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:48:06.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Admin.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:47:17.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\_ViewStart.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\_ViewStart.cshtml.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\_ViewStart.cshtml.cs",
+              "RelativeToolTip": "MyBlogCMS\\Views\\_ViewStart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:57:09.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwDsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:08:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20251010034503_AddCommentTable.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251010034503_AddCommentTable.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Migrations\\20251010034503_AddCommentTable.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251010034503_AddCommentTable.cs",
+              "RelativeToolTip": "MyBlogCMS\\Migrations\\20251010034503_AddCommentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T03:45:03.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251008062902_AddAuthorIdToPost.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251008062902_AddAuthorIdToPost.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Migrations\\20251008062902_AddAuthorIdToPost.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20251008062902_AddAuthorIdToPost.cs",
+              "RelativeToolTip": "MyBlogCMS\\Migrations\\20251008062902_AddAuthorIdToPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:29:02.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Video.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Video.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Video.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:49:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyBlogCMS\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyBlogCMS\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAgwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-07T04:18:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T15:30:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "dotnet",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\dotnet",
+              "RelativeDocumentMoniker": "MyBlogCMS\\dotnet",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\dotnet",
+              "RelativeToolTip": "MyBlogCMS\\dotnet",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-04T05:14:52.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T05:05:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T05:00:17.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T04:32:35.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T04:34:05.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MyBlogCMS.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\obj\\Debug\\net8.0\\MyBlogCMS.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\obj\\Debug\\net8.0\\MyBlogCMS.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\obj\\Debug\\net8.0\\MyBlogCMS.AssemblyInfo.cs",
+              "RelativeToolTip": "MyBlogCMS\\obj\\Debug\\net8.0\\MyBlogCMS.AssemblyInfo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:51:17.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:49:31.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\PostViewModel.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostViewModel.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\PostViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:21:48.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20250930162529_CheckDb.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20250930162529_CheckDb.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Migrations\\20250930162529_CheckDb.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Migrations\\20250930162529_CheckDb.cs",
+              "RelativeToolTip": "MyBlogCMS\\Migrations\\20250930162529_CheckDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:25:29.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T16:52:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MyBlogCMS\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:49:49.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T07:12:43.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T06:05:42.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T03:27:06.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MyBlogCMS\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-26T03:24:17.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyBlogCMS\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T04:19:45.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MyBlogContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Data\\MyBlogContextFactory.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Data\\MyBlogContextFactory.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Data\\MyBlogContextFactory.cs",
+              "RelativeToolTip": "MyBlogCMS\\Data\\MyBlogContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:46:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "VideoComment.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoComment.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\VideoComment.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoComment.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\VideoComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:11:40.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Source.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Source.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Source.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Source.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Source.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:11:28.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PostComment.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostComment.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\PostComment.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostComment.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\PostComment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:11:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Meta.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Meta.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Meta.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Meta.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Meta.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:10:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "VideoMeta.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoMeta.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\VideoMeta.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoMeta.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\VideoMeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:51:35.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PostMeta.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostMeta.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\PostMeta.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostMeta.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\PostMeta.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:50:48.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "VideoTag.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoTag.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\VideoTag.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoTag.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\VideoTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:50:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostTag.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\PostTag.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostTag.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\PostTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:50:11.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "VideoCategory.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoCategory.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\VideoCategory.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\VideoCategory.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\VideoCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:49:57.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "PostCategory.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostCategory.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\PostCategory.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\PostCategory.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\PostCategory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:49:35.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\Tag.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:48:37.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyBlogCMS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\Models\\User.cs",
+              "RelativeToolTip": "MyBlogCMS\\Models\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:47:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyBlogCMS\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\appsettings.Development.json",
+              "RelativeToolTip": "MyBlogCMS\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T04:30:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBlogCMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\long\\OneDrive\\M\u00E1y t\u00EDnh\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\appsettings.json",
+              "RelativeToolTip": "MyBlogCMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T16:00:45.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

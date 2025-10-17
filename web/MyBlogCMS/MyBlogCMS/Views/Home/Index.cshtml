@@ -1,0 +1,162 @@
+﻿@model MyBlogCMS.Models.HomeViewModel
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<!-- HERO SECTION -->
+<section class="hero-section text-center text-white py-5">
+    <div class="container">
+        <h1 class="fw-bold display-5 mb-3">Somebody’s odd can be someone else’s normal</h1>
+        <p class="lead text-secondary">Khám phá những tư tưởng, con người và ý tưởng mở rộng thế giới của bạn 🌌</p>
+    </div>
+</section>
+
+<!-- MAIN CONTENT -->
+<div class="container my-5">
+    <div class="row g-4">
+        <!-- Danh sách bài viết -->
+        <div class="col-lg-8">
+            <div class="row g-4">
+                @if (Model.Posts != null && Model.Posts.Any())
+                {
+                    @foreach (var post in Model.Posts)
+                    {
+                        <div class="col-md-6 col-lg-4">
+                            <div class="card bg-dark border-0 shadow-sm hover-card h-100">
+                                <a asp-controller="Posts" asp-action="Details" asp-route-id="@post.PostId" class="text-decoration-none text-white">
+                                    @if (!string.IsNullOrEmpty(post.Thumbnail))
+                                    {
+                                        <img src="~/uploads/posts/@post.Thumbnail"
+                                             alt="@post.Title"
+                                             class="card-img-top rounded-top"
+                                             style="height: 200px; object-fit: cover;" />
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/no-image.jpg"
+                                             alt="No image"
+                                             class="card-img-top rounded-top"
+                                             style="height: 200px; object-fit: cover;" />
+                                    }
+
+                                    <div class="card-body">
+                                        <h5 class="fw-bold text-white">@post.Title</h5>
+                                        <p class="small text-muted mb-2">
+                                            📅 @post.CreatedAt.ToString("dd/MM/yyyy")
+                                            @if (post.Category != null)
+                                            {
+                                                <span> | 📂 @post.Category.Name</span>
+                                            }
+                                        </p>
+                                        <p class="text-secondary small">
+                                            @Html.Raw(post.Content?.Length > 100 ? post.Content.Substring(0, 100) + "..." : post.Content)
+                                        </p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="text-center text-muted py-5">
+                        <p>Chưa có bài viết nào.</p>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <!-- SIDEBAR -->
+        <div class="col-lg-4">
+            <!-- Chuyên mục -->
+            <div class="card bg-dark border-0 shadow-sm mb-4">
+                <div class="card-body">
+                    <h5 class="fw-bold text-primary mb-3">📂 Chuyên mục</h5>
+                    @if (Model.Categories != null && Model.Categories.Any())
+                    {
+                        <ul class="list-unstyled">
+                            @foreach (var cat in Model.Categories)
+                            {
+                                <li class="mb-2">
+                                    <a asp-controller="Posts" asp-action="Index" asp-route-categoryId="@cat.CategoryId"
+                                       class="text-decoration-none text-light">
+                                        @cat.Name
+                                    </a>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p class="text-muted small">Chưa có chuyên mục nào.</p>
+                    }
+                </div>
+            </div>
+
+            <!-- Bài viết nổi bật -->
+            <div class="card bg-dark border-0 shadow-sm">
+                <div class="card-body">
+                    <h5 class="fw-bold text-warning mb-3">🔥 Bài viết nổi bật</h5>
+                    @if (Model.FeaturedPosts != null && Model.FeaturedPosts.Any())
+                    {
+                        <ul class="list-unstyled">
+                            @foreach (var post in Model.FeaturedPosts.Take(5))
+                            {
+                                <li class="mb-3">
+                                    <a asp-controller="Posts" asp-action="Details" asp-route-id="@post.PostId"
+                                       class="text-decoration-none text-light">
+                                        <strong>@post.Title</strong>
+                                    </a>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <p class="text-muted small">Chưa có bài viết nổi bật.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER -->
+<footer class="bg-dark text-center text-secondary py-4 mt-5 border-top border-secondary">
+    <p>© 2025 <strong>VLP Blog</strong> — Chia sẻ tri thức và trải nghiệm</p>
+    <p class="small">
+        <a href="#" class="text-secondary text-decoration-none">Liên hệ</a> •
+        <a href="#" class="text-secondary text-decoration-none">Điều khoản</a> •
+        <a href="#" class="text-secondary text-decoration-none">Chính sách bảo mật</a>
+    </p>
+</footer>
+
+<!-- STYLE -->
+<style>
+    body {
+        background-color: #111;
+        color: #eee;
+    }
+
+    .hero-section {
+        background: linear-gradient(to bottom right, #000, #1a1a1a);
+        background-size: cover;
+    }
+
+    .hover-card {
+        transition: all 0.3s ease;
+    }
+
+        .hover-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 8px 25px rgba(255, 255, 255, 0.1);
+        }
+
+    a.text-light:hover {
+        color: #0d6efd !important;
+    }
+
+    footer a:hover {
+        color: #fff !important;
+    }
+</style>

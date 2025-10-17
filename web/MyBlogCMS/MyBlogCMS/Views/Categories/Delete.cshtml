@@ -1,0 +1,19 @@
+﻿@model MyBlogCMS.Models.Category
+
+@{
+    ViewData["Title"] = "Xóa Category";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>Bạn có chắc muốn xóa Category này?</h3>
+<div>
+    <h4>@Model.Name</h4>
+    <p>@Model.Description</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

@@ -1,0 +1,27 @@
+﻿@model MyBlogCMS.Models.Category
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Thêm danh mục mới";
+}
+
+<div class="container text-white">
+    <h3 class="mb-4">➕ Thêm danh mục mới</h3>
+
+    <form asp-action="Create">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control bg-dark text-white border-secondary" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" rows="3" class="form-control bg-dark text-white border-secondary"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success">
+            <i class="bi bi-save"></i> Lưu danh mục
+        </button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

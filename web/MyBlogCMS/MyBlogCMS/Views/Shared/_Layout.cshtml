@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - MyBlogCMS</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="bg-dark text-white">
+        <div class="container d-flex justify-content-between align-items-center py-3">
+            <a class="text-white text-decoration-none" href="/">
+                <h4 class="mb-0">MyBlogCMS</h4>
+            </a>
+
+            <nav>
+                <a class="text-white me-3" href="/">Trang chủ</a>
+                <a class="text-white me-3" href="/Posts">Bài viết</a>
+                <a class="text-white me-3" href="/Categories">Chuyên mục</a>
+                @if (User.Identity?.IsAuthenticated ?? false)
+                {
+                    <a class="text-white me-3" href="/Identity/Account/Manage">Tài khoản</a>
+                    <a class="text-white" href="/Identity/Account/Logout">Đăng xuất</a>
+                }
+                else
+                {
+                    <a class="text-white" href="/Identity/Account/Login">Đăng nhập</a>
+                }
+            </nav>
+        </div>
+    </header>
+
+    <main class="container my-4">
+        @RenderBody()
+    </main>
+
+    <footer class="bg-light text-center py-3 mt-5">
+        <div class="container">
+            &copy; @DateTime.Now.Year - MyBlogCMS
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

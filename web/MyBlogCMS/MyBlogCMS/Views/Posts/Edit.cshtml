@@ -1,0 +1,86 @@
+﻿@model MyBlogCMS.Models.Post
+
+@{
+    ViewData["Title"] = "Chỉnh sửa bài viết";
+    var categories = ViewData["Categories"] as List<MyBlogCMS.Models.Category>;
+}
+
+<div class="container my-5">
+    <h2 class="fw-bold text-primary mb-4 text-center">
+        <i class="bi bi-pencil-square"></i> Chỉnh sửa bài viết
+    </h2>
+
+    <form asp-action="Edit" enctype="multipart/form-data" method="post" class="card shadow-sm p-4">
+        <input type="hidden" asp-for="PostId" />
+
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label fw-bold">Tiêu đề</label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label fw-bold">Mô tả ngắn</label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Content" class="form-label fw-bold">Nội dung</label>
+            <textarea asp-for="Content" class="form-control" rows="8"></textarea>
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label fw-bold">Danh mục</label>
+            <select asp-for="CategoryId" class="form-select" asp-items="@(new SelectList(categories, "CategoryId", "Name"))">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Ảnh minh họa hiện tại</label>
+            @if (!string.IsNullOrEmpty(Model.Thumbnail))
+            {
+                <div class="mb-2">
+                    <img src="@Model.ThumbnailPath" alt="Thumbnail" class="rounded shadow-sm" style="max-height: 250px;">
+                </div>
+            }
+            else
+            {
+                <p class="text-muted fst-italic">Chưa có ảnh minh họa.</p>
+            }
+
+            <label class="form-label fw-bold mt-3">Cập nhật ảnh mới (tùy chọn)</label>
+            <input asp-for="ThumbnailFile" type="file" class="form-control" accept="image/*" onchange="previewImage(event)" />
+        </div>
+
+        <div class="text-center mb-3">
+            <img id="preview" src="#" alt="Preview" class="rounded shadow-sm" style="max-height: 250px; display: none;" />
+        </div>
+
+        <div class="text-end">
+            <a asp-action="Index" class="btn btn-secondary me-2">
+                <i class="bi bi-arrow-left"></i> Quay lại
+            </a>
+            <button type="submit" class="btn btn-primary">
+                <i class="bi bi-save"></i> Lưu thay đổi
+            </button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function previewImage(event) {
+            const preview = document.getElementById('preview');
+            const file = event.target.files[0];
+            if (file) {
+                preview.src = URL.createObjectURL(file);
+                preview.style.display = 'block';
+            } else {
+                preview.style.display = 'none';
+            }
+        }
+    </script>
+}

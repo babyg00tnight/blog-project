@@ -1,0 +1,20 @@
+﻿@model MyBlogCMS.Models.Category
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<div class="container text-white">
+    <h3 class="mb-4 text-danger">⚠️ Xác nhận xóa danh mục</h3>
+
+    <div class="card bg-dark border-danger p-4">
+        <h4>@Model.Name</h4>
+        <p>@Model.Description</p>
+
+        <form asp-action="DeleteConfirmed">
+            <input type="hidden" asp-for="CategoryId" />
+            <button type="submit" class="btn btn-danger"><i class="bi bi-trash"></i> Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyBlogCMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyBlogCMS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\css\\admin-dark.css",
+      "PackagePath": "staticwebassets\\css\\admin-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\555ea0f3-90f8-4afa-93a6-83930f8a7f73.mp4",
+      "PackagePath": "staticwebassets\\uploads\\555ea0f3-90f8-4afa-93a6-83930f8a7f73.mp4"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\054bb3b02de611ef8edc8fe0c5fa8e33.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\054bb3b02de611ef8edc8fe0c5fa8e33.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\4c6fe0d8-3f49-430d-bb18-2021369709eb.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\4c6fe0d8-3f49-430d-bb18-2021369709eb.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\4f3983be-f963-4a41-ac39-f2b1b83b6b55.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\4f3983be-f963-4a41-ac39-f2b1b83b6b55.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\56a30f18-bc19-4ad5-880f-d98e78626917.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\56a30f18-bc19-4ad5-880f-d98e78626917.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\57bba0f0a0be11f0af7ec5e21b00b771.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\57bba0f0a0be11f0af7ec5e21b00b771.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\5dbcd0b0a65d11f080aeb3e072207ec8.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\5dbcd0b0a65d11f080aeb3e072207ec8.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\855ebce0aa4111f0b5bb05af7f66aa84.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\855ebce0aa4111f0b5bb05af7f66aa84.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\91a922c0aac711f0b970bf82bc6f0414.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\posts\\91a922c0aac711f0b970bf82bc6f0414.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\9389ce05-1d03-4959-8ec7-9cdcd7de5efb.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\9389ce05-1d03-4959-8ec7-9cdcd7de5efb.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\a8ac0c5e-0d4b-4e3c-af8f-3ef231c24864.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\a8ac0c5e-0d4b-4e3c-af8f-3ef231c24864.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\b128d950-d28f-41bb-93cf-e46070c81cee.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\b128d950-d28f-41bb-93cf-e46070c81cee.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\b293df44-1508-4b0f-8ee9-368e9f87a495.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\b293df44-1508-4b0f-8ee9-368e9f87a495.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\e1035760ab3e11f0b970bf82bc6f0414.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\e1035760ab3e11f0b970bf82bc6f0414.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\ef56eb85-794a-459c-94ad-e947dc263fce.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\ef56eb85-794a-459c-94ad-e947dc263fce.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\f0923d50ab2911f080aeb3e072207ec8.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\f0923d50ab2911f080aeb3e072207ec8.png"
+    },
+    {
+      "Id": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\wwwroot\\uploads\\posts\\zxczxc.png",
+      "PackagePath": "staticwebassets\\uploads\\posts\\zxczxc.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyBlogCMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyBlogCMS.props",
+      "PackagePath": "build\\MyBlogCMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBlogCMS.props",
+      "PackagePath": "buildMultiTargeting\\MyBlogCMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyBlogCMS.props",
+      "PackagePath": "buildTransitive\\MyBlogCMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

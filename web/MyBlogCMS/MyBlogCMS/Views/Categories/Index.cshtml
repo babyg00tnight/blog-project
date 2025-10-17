@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MyBlogCMS.Models.Category>
+@{
+    ViewData["Title"] = "Chuyên mục";
+}
+
+<h2>Chuyên mục</h2>
+
+<ul class="list-group">
+    @foreach (var c in Model)
+    {
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <a href="@Url.Action("Details", "Categories", new { id = c.CategoryId })">@c.Name</a>
+            <small class="text-muted">@c.Description</small>
+        </li>
+    }
+</ul>

@@ -1,0 +1,146 @@
+/* ===== Reset nhẹ và font ===== */
+body {
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  background-color: #000000;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  color: rgb(230, 230, 230); /* trắng */
+}
+
+/* ===== Navbar ===== */
+.navbar {
+  background-color: #000000 !important;
+  border-bottom: 1px solid #e5e5e5;
+}
+.navbar-brand {
+  font-weight: 700;
+  color: #e6e6e6 !important;
+}
+.nav-link {
+  color: #e6e6e6 !important;
+}
+.nav-link:hover {
+  color: #e6e6e6 !important;
+}
+
+/* ===== Hero section ===== */
+header {
+  background: linear-gradient(180deg, #000000, #263854);
+  padding: 80px 20px;
+  text-align: center;
+}
+header h1 {
+  font-size: 2.5rem;
+} 
+header p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* ===== Card (bài viết, video) ===== */
+.card {
+  background-color: #0B192C;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+}
+.card-title {
+  color: #e6e6e6;
+}
+.card-text {
+  color: #e6e6e6;
+}
+
+/* ===== Buttons ===== */
+.btn {
+  border-radius: 30px;
+  padding: 8px 20px;
+  font-weight: 500;
+}
+.btn-primary {
+  background-color: #17b54f;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #245ea1;
+}
+
+/* ===== Form ===== */
+input.form-control {
+  background: #000000;
+  border: 1px solid #000000;
+  color: #e6e6e6;
+}
+input.form-control:focus {
+  border-color: #151515;
+  box-shadow: 0 0 4px rgba(42, 115, 204, 0.3);
+}
+
+/* ===== Footer ===== */
+footer {
+  background: #151515;
+  color: #666;
+  border-top: 1px solid #17a94b;
+  padding: 20px 0;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+/* ===== Link ===== */
+a {
+  color: #2a73cc;
+  text-decoration: none;
+}
+a:hover {
+  color: #245ea1;
+  text-decoration: underline;
+}
+
+/* Hiệu ứng underline khi hover navbar item */
+.navbar .nav-link {
+  position: relative;
+  padding-bottom: 5px; /* để có khoảng trống cho gạch */
+}
+
+.navbar .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #fff; /* màu gạch trắng */
+  transition: width 0.3s ease;
+}
+
+.navbar .nav-link:hover::after {
+  width: 100%;
+}
+ 
+/* Xóa gạch chân mặc định của navbar link */
+.navbar .nav-link {
+  text-decoration: none !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  text-decoration: none !important;
+}
+
+/* trạng thái active: đổi màu chữ + to hơn + persist underline */
+.navbar .nav-link.active {
+  color: #e6e6e6 !important;
+  font-weight: 700;
+  font-size: 1.1rem; /* chữ to hơn */
+}
+.navbar .nav-link.active::after {
+  width: 100%;
+}
+
+

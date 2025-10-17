@@ -1,0 +1,32 @@
+﻿@model MyBlogCMS.Models.Post
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Xóa bài viết";
+}
+
+<div class="container-fluid text-light">
+    <div class="card bg-dark p-4 shadow-lg border-0">
+        <h3 class="fw-bold text-danger mb-3">⚠️ Xác nhận xóa bài viết</h3>
+
+        <div class="mb-3">
+            <strong>Tiêu đề:</strong> @Model.Title
+        </div>
+        <div class="mb-3">
+            <strong>Danh mục:</strong> @Model.Category?.Name
+        </div>
+        <div class="mb-3">
+            <strong>Mô tả:</strong> @Model.Description
+        </div>
+        <div class="mb-4">
+            <img src="@Model.ThumbnailPath" width="180" class="rounded border border-secondary" />
+        </div>
+
+        <form asp-action="DeleteConfirmed" method="post">
+            <input type="hidden" asp-for="PostId" />
+            <div class="text-end">
+                <a asp-action="Index" class="btn btn-outline-light me-2">Hủy</a>
+                <button type="submit" class="btn btn-danger"><i class="bi bi-trash3"></i> Xóa</button>
+            </div>
+        </form>
+    </div>
+</div>

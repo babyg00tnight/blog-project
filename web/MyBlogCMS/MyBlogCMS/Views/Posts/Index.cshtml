@@ -1,0 +1,102 @@
+﻿@model IEnumerable<MyBlogCMS.Models.Post>
+
+@{
+    ViewData["Title"] = "Danh sách bài viết";
+    var search = ViewData["Search"] as string;
+    var currentPage = (int)(ViewData["CurrentPage"] ?? 1);
+    var totalPages = (int)(ViewData["TotalPages"] ?? 1);
+}
+
+<div class="container mt-5">
+
+    <!-- ====================== -->
+    <!-- 🔍 Thanh tiêu đề + tìm kiếm -->
+    <!-- ====================== -->
+    <div class="d-flex flex-wrap justify-content-between align-items-center mb-4">
+        <h3 class="fw-bold text-primary mb-3 mb-md-0">📰 Danh sách bài viết</h3>
+
+        <div class="d-flex flex-wrap gap-2">
+            <form asp-action="Index" method="get" class="d-flex">
+                <input type="text" name="search" value="@search" class="form-control me-2" placeholder="🔍 Tìm kiếm bài viết..." />
+                <button type="submit" class="btn btn-primary">Tìm</button>
+            </form>
+            <a asp-action="Create" class="btn btn-success">➕ Đăng bài mới</a>
+        </div>
+    </div>
+
+    <!-- ====================== -->
+    <!-- 🧾 Danh sách bài viết -->
+    <!-- ====================== -->
+    <div class="row g-4">
+        @if (!Model.Any())
+        {
+            <div class="col-12 text-center text-muted">
+                <p>Không tìm thấy bài viết nào.</p>
+            </div>
+        }
+        else
+        {
+            foreach (var post in Model)
+            {
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0">
+                        <!-- 🖼️ Ảnh thumbnail -->
+                        <div class="ratio ratio-16x9">
+                            <img src="@post.ThumbnailPath"
+                                 alt="@post.Title"
+                                 class="card-img-top rounded-top object-fit-cover"
+                                 style="height: 200px; object-fit: cover;" />
+                        </div>
+
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@post.Title</h5>
+                            <p class="text-muted small mb-2">
+                                📂 <strong>@post.Category?.Name</strong>
+                            </p>
+                            <p class="card-text text-secondary" style="max-height: 70px; overflow: hidden;">
+                                @Html.Raw(post.Description ?? post.Content)
+                            </p>
+                            <a asp-action="Details" asp-route-id="@post.PostId" class="btn btn-outline-primary btn-sm mt-2">
+                                Đọc thêm →
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+
+    <!-- ====================== -->
+    <!-- 📄 Phân trang -->
+    <!-- ====================== -->
+    @if (totalPages > 1)
+    {
+        <nav class="mt-4">
+            <ul class="pagination justify-content-center">
+                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                    <a class="page-link"
+                       asp-action="Index"
+                       asp-route-page="@(currentPage - 1)"
+                       asp-route-search="@search">« Trước</a>
+                </li>
+
+                @for (int i = 1; i <= totalPages; i++)
+                {
+                    <li class="page-item @(i == currentPage ? "active" : "")">
+                        <a class="page-link"
+                           asp-action="Index"
+                           asp-route-page="@i"
+                           asp-route-search="@search">@i</a>
+                    </li>
+                }
+
+                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                    <a class="page-link"
+                       asp-action="Index"
+                       asp-route-page="@(currentPage + 1)"
+                       asp-route-search="@search">Sau »</a>
+                </li>
+            </ul>
+        </nav>
+    }
+</div>

@@ -1,0 +1,38 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Identity;
+using MyBlogCMS.Models;
+using System.Threading.Tasks;
+
+namespace MyBlogCMS.Areas.Identity.Pages.Account.Manage
+{
+    public class IndexModel : PageModel
+    {
+        private readonly UserManager<ApplicationUser>
+    _userManager;
+
+    public IndexModel(UserManager<ApplicationUser>
+        userManager)
+        {
+        _userManager = userManager;
+        }
+
+        // ✅ Các thuộc tính hiển thị trong trang Manage
+        public string Email { get; set; } = string.Empty;
+
+        [TempData]
+        public string StatusMessage { get; set; } = string.Empty; // ⚡ thêm dòng này để fix lỗi
+
+        public async Task<IActionResult>
+            OnGetAsync()
+            {
+            var user = await _userManager.GetUserAsync(User);
+            if (user == null)
+            return NotFound("Không tìm thấy người dùng hiện tại.");
+
+            Email = user.Email ?? "";
+            StatusMessage = "Tài khoản của bạn đã được tải thành công.";
+            return Page();
+            }
+            }
+            }
