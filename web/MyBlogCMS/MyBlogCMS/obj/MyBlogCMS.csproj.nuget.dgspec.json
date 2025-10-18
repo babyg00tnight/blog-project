@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj": {}
+    "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\web\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj": {
+    "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\web\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj",
+        "projectUniqueName": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\web\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj",
         "projectName": "MyBlogCMS",
-        "projectPath": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj",
+        "projectPath": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\web\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj",
         "packagesPath": "C:\\Users\\long\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\obj\\",
+        "outputPath": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\web\\MyBlogCMS\\MyBlogCMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mt2Gb6qSj/w=",
+  "dgSpecHash": "TH/8wqdITDk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\asp\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj",
+  "projectFilePath": "C:\\Users\\long\\OneDrive\\Máy tính\\tao_trang_blog\\web\\MyBlogCMS\\MyBlogCMS\\MyBlogCMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\long\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\long\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
